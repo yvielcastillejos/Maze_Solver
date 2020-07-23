@@ -8,4 +8,3 @@ class tree:
 		self.child = tree(child, self)
 		self.key[1].append(self.child)
 		return self.index
-		
