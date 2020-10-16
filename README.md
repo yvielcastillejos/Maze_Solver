@@ -6,6 +6,7 @@ Basically finds the shortest path of any maze given that the start and end posit
 - Pygame will visualize any test case
 - Algorithm will work as long as one "S" and "E" are defined in test.py
 - Must use "#" for walls and " " for empty space
+- There needs to exist a path between S and E, it will return an error otherwise.
 - To run, type "python3 visualize.py" on terminal or run visualize.py on any editor you wish to use.
 
 ## Example of a test case (can be of any dimensions/design/Visualized in terminal):
