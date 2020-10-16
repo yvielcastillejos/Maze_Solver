@@ -1,6 +1,7 @@
 import pygame
 from test import*
-
+import sys
+import random
 
 S_WIDTH = len(test[0])*50
 S_HEIGHT = len(test)*50
@@ -39,7 +40,7 @@ def game():
         # handle events
         # Once action transpires, update and refresh the screen & surface
         screen.blit(surface, (0,0))
-        text1 = myfont.render("Breadth First Search", 1, (0,0,0))
+        text1 = myfont.render("Breadth First Search - press Q to quit", 1, (0,0,0))
         screen.blit(text1, (5,10))
         text2 = start_end.render("S", 1, (0,0,0))
         screen.blit(text2, (start1[0]*GRIDSIZE,start1[1]*GRIDSIZE))
@@ -77,7 +78,7 @@ def event():
             pygame.quit()
             sys.exit()
         elif event.type == pygame.KEYDOWN:
-            if (event.key == Q):
+            if (event.key == pygame.K_q):
                 pygame.quit()
                 sys.exit()
 
