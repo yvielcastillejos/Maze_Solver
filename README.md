@@ -23,7 +23,7 @@ Basically finds the shortest path of any maze given that the start and end posit
 <img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/BFS.gif" height = "550" width = "350">
 
 Another Test Case                                              
-<img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/BFS2.gif" height = "550" width = "450">
+<img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/BFS2.gif" height = "550" width = "425">
 
 
 ## Next step
