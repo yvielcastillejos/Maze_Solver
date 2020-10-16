@@ -13,7 +13,7 @@ def main(Board):
 			Board.Board[move[0]][move[1]] = "@"
 		for i in range(len(Board.Board)):
 			print(str(Board.Board[i]) + "\n")
-		return
+		return shortest
 
 def solver(Board):
 	visited, shortest, end_game = [], [], False
