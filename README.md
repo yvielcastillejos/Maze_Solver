@@ -4,7 +4,7 @@ served as a quick and easy review of BFS. Logic is a bit messy as I was implemen
 Basically finds the shortest path of any maze given that the start and end positions are defined.
 - Design the test case in test.py (Can be of any dimensions)
 - Pygame will visualize any test case
-- Algorithm will work as long as "S" and "E" are defined in test.py
+- Algorithm will work as long as one "S" and "E" are defined in test.py
 - Must use "#" for walls and " " for empty space
 - To run, type "python3 visualize.py" on terminal or run visualize.py on any editor you wish to use.
 
