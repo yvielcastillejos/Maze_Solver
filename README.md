@@ -7,14 +7,14 @@ Basically finds the shortest path of any maze given that the start and end posit
 - Must use "#" for walls and " " for empty space
 
 ## Example of a test case (can be of any dimensions/design/Visualized in terminal):
-<img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/Screen%20Shot%202020-10-15%20at%203.29.13%20AM.png" height = "250" width = "250">
+<img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/Screen%20Shot%202020-10-16%20at%203.54.04%20AM.png" height = "250" width = "250">
  
  ## Visualization of testcase using pygame:
 <img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/BFS.png" height = "550" width = "350">
 
 
 ## The result (In the terminal):
-<img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/Screen%20Shot%202020-10-15%20at%203.48.53%20AM.png" height = "250" width = "250">
+<img src = "https://github.com/yvielcastillejos/Maze_Solver_BFSapplication/blob/master/Screen%20Shot%202020-10-16%20at%203.55.29%20AM.png" height = "250" width = "250">
 
 ## We can visualize this with pygame
 
