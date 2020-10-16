@@ -1,5 +1,5 @@
 # Maze_Solver_BFSapplication
-served as a quick and easy review of BFS. Logic is a bit messy as I was implementing trees in python; However, it basically uses queues and trees to traverse back and forth and to find the minimum path.
+served as a quick and easy review of BFS. Logic is a bit messy as I was implementing trees in python and accessing the keys in python is not the most straightforward thing ever :( ; However, it basically uses queues and trees to traverse back and forth and to find the minimum path.
 
 Basically finds the shortest path of any maze given that the start and end positions are defined.
 - Design the test case in test.py (Can be of any dimensions)
