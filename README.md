@@ -29,3 +29,7 @@ Another Test Case
 
 ## Next step
 - Visualize how BFS really works by showing the visited blocks and how head position "looks" for the end or "E"
+
+## Resources
+This video taught me how to use pygame.
+[1] https://www.youtube.com/watch?v=9bBgyOkoBQ0&ab_channel=Kite
